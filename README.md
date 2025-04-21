@@ -1,4 +1,3 @@
-# project_management_app
 
 
 # 🛠️ Project Management API
