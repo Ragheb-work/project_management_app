@@ -1,0 +1,9 @@
+🔔 Notification System (email or real-time with sockets)
+
+📅 Task Calendar View
+
+📈 Stats/Dashboard for managers and admins
+
+🧑‍🤝‍🧑 User Roles UI for admins to assign/manage
+
+📄 File attachments for tasks or requests
